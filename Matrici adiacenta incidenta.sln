@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matrici adiacenta incidenta", "Matrici adiacenta incidenta\Matrici adiacenta incidenta.vcxproj", "{FFB66593-8D72-4367-9966-A0C1B8E0787E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB66593-8D72-4367-9966-A0C1B8E0787E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FFB66593-8D72-4367-9966-A0C1B8E0787E}.Debug|Win32.Build.0 = Debug|Win32
+		{FFB66593-8D72-4367-9966-A0C1B8E0787E}.Release|Win32.ActiveCfg = Release|Win32
+		{FFB66593-8D72-4367-9966-A0C1B8E0787E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
